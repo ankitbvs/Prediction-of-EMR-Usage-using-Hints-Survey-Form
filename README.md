@@ -18,7 +18,7 @@
 •	EMR is a way of storing the records digitally. EMR improves quality of care, reduction in medical manual errors and improvd communication and interactions among primary care providers and patients. It also allows to track the patients medical conditions over time. So knowing the variables which influence patients online usage of EMR would be helpful in improving the online EMR system. So that's why, more than the prediction here we are trying to analyze what the variables are which influence patient online EMR usage. 
 
 ### Problem Statement
-* Find out which are the most important variables which influence in a patients online EMR usage.
+* Find out which are the most important variables which influence a patients online EMR usage.
 
 ### Data Source
 * Hints Survey Form
