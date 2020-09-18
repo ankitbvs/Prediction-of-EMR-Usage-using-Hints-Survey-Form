@@ -1,6 +1,6 @@
 # Prediction-of-Online-EMR-Usage-using-Hints-Survey-Form
 
-![alt text](emri.JPG)
+![alt text](emri.PNG)
 
 ### Table of contents
 * [Introduction](#introduction)
