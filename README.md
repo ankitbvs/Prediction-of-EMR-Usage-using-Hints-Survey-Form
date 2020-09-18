@@ -1,4 +1,4 @@
-# Prediction-of-Online-EMR-Usage-using-Hints-Survey-Form
+# Prediction-of-EMR-Usage-using-Hints-Survey-Form
 
 ![alt text](emri.PNG)
 
