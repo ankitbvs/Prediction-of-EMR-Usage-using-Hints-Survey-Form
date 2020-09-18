@@ -21,8 +21,7 @@
 * Find out which are the most important variables which influence a patients online EMR usage.
 
 ### Data Source
-* Hints Survey Form
-
+* Hints Survey Form - National Institute of Health (U.S. Department of Health and Human Services)
 ### Technologies
 * R programming
 
